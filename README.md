@@ -1,4 +1,4 @@
-# Face-Detection
+# DimLight Detect
 <!DOCTYPE html>
 <html lang="en">
 <head>
